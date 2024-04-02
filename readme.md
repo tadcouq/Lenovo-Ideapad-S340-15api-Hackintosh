@@ -18,7 +18,7 @@ Please read entire guide from [Dortania OpenCore Guides](https://dortania.github
 | CPU           | AMD Ryzen 3500U                 |
 | GPU           | Radeon™ Vega 8                  |
 | NVME          | WD SN520                        |
-| Wireless Card | (waitng for the new from Shopee)|
+| Wireless Card | (waitng for new one from Shopee)|
 
  ### BIOS Configuration
  (Update tomorrow, its 2AM at here now...)
