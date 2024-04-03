@@ -1,7 +1,7 @@
 # Ideapad-S340-15API-Hackintosh
 [![OpenCore](https://img.shields.io/badge/OpenCore-v0.9.9-blue)](https://github.com/acidanthera/OpenCorePkg)
 [![MacOS-Stable](https://img.shields.io/badge/MacOS-13.6.6-blueviolet)](https://www.apple.com/macos/)
-![STATUS](https://img.shields.io/badge/STATUS-BETA 0.2-blueviolet.svg)
+![STATUS](https://img.shields.io/badge/STATUS-BETA0.2-blueviolet.svg)
 
 # The full rebuild its in deverlopment, you can check v0.1 (unstable) in main branch
 
