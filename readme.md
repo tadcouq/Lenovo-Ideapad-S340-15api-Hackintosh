@@ -87,7 +87,7 @@ The full guide do dump this file can go though [here](https://github.com/iamthao
 
 # Credits
 This build wouldn't happen without these amazing people/community:
-- [Riegan](https://github.com/RieGan) for the example inspired me to open this project
+- [Riegan](https://github.com/RieGan) and [Bingus Studios](https://youtube.com/@BringusStudios?si=9GDnu6Q0GCMPNQc1) inspired me to make this project possible
 - [Acidanthera](https://github.com/acidanthera) for OpenCorePkg, Lilu, etc...
 - [corpnewt](https://github.com/corpnewt) for all powertools
 - [Noot](https://chefkissinc.github.io/) for NootedRed, RadeonSensor and AMD Hackintosh Guide
