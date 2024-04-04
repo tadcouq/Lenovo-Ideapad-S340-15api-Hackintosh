@@ -6,7 +6,7 @@
 # The full rebuild its in deverlopment, you can check v0.1 (unstable) in main branch
 
 # Introduction
-After crying and searching though Internet no one have try this freeking nugget run macOS, I think its will be a fun experience to try out. This hackintosh configuration is built for Lenovo Ideapad S340-15API (Ryzen). Also this is my first hackintosh project for educational purpose because all my money goes to ~~relearn calculus~~ fund the university campus rebuild, so you know it ¯\_(ツ)_/¯
+After crying and searching though Internet no one have try this freeking nugget run macOS, I think its will be a fun experience to try out. This hackintosh configuration is built for Lenovo Ideapad S340-15API (Ryzen). Also this is my first hackintosh project for educational purpose because all my money goes to ~~relearn calculus~~ fund the university campus rebuild, so you know it > ¯\_(ツ)_/¯
 
 # Disclaimer
 Please read entire guide from [Dortania OpenCore Guides](https://dortania.github.io/OpenCore-Install-Guide/), [Noot AMD Hackintosh Guide](https://chefkissinc.github.io/) and this ReadMe before you using this config. I am not responsible for any damage. If you want to improve this repo, please make issue or pull request. Any help would be greatly appreciated.
@@ -59,7 +59,7 @@ Not recommend, but if u want to tweek more. Fully power off the laptop. Enter th
      
      F6 → 6 → Y → H → N
 ```
-*Shout out to [Riegan](https://github.com/RieGan) for this bios cheat code, if you want to do this on IdeaPad s340 Intel version, check out his [GitHub Project](https://github.com/RieGan/Ideapad-S340-15iwl-Hackintosh)*
+*Shout out to [RieGan](https://github.com/RieGan) for this bios cheat code, if you want to do this on IdeaPad s340 Intel version, check out his [GitHub Project](https://github.com/RieGan/Ideapad-S340-15iwl-Hackintosh)*
 
 ### ACPI
 Advanced Configuration and Power Interface (ACPI) is an open standard that operating systems can use to discover and configure computer hardware components, perform power management (e.g. putting unused hardware components to sleep), auto configuration (e.g. Plug and Play and hot swapping), and status monitoring.
@@ -86,7 +86,7 @@ The full guide do dump this file can go though [here](https://github.com/iamthao
 
 # Credits
 This build wouldn't happen without these amazing people/community:
-- [Riegan](https://github.com/RieGan) and [Bingus Studios](https://youtube.com/@BringusStudios?si=9GDnu6Q0GCMPNQc1) inspired me to make this project possible
+- [RieGan](https://github.com/RieGan) and [Bingus Studios](https://youtube.com/@BringusStudios?si=9GDnu6Q0GCMPNQc1) inspired me to make this project possible
 - [Acidanthera](https://github.com/acidanthera) for OpenCorePkg, Lilu, etc...
 - [corpnewt](https://github.com/corpnewt) for all powertools
 - [Noot](https://chefkissinc.github.io/) for NootedRed, RadeonSensor and AMD Hackintosh Guide
