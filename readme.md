@@ -65,7 +65,7 @@ Not recommend, but if u want to tweek more. Fully power off the laptop. Enter th
 Advanced Configuration and Power Interface (ACPI) is an open standard that operating systems can use to discover and configure computer hardware components, perform power management (e.g. putting unused hardware components to sleep), auto configuration (e.g. Plug and Play and hot swapping), and status monitoring.
 
 I recommend you should remake this on your own with [SSDTTime](https://github.com/corpnewt/SSDTTime)
-The full guide do dump this file can go though [here](https://github.com/iamthaoly/amd-laptop-hackintosh)
+The full guide do dump this file can go though [here](https://github.com/iamthaoly/amd-laptop-hackintosh) or [Getting Started With ACPI and Troubleshooting](https://dortania.github.io/Getting-Started-With-ACPI/)
 
 
 ### Kext
