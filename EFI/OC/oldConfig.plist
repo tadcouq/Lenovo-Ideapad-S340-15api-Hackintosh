@@ -1650,7 +1650,7 @@
                     <key>Comment</key>
                     <string>OpenShell.efi</string>
                     <key>Enabled</key>
-                    <false/>
+                    <true/>
                     <key>Flavour</key>
                     <string>OpenShell:UEFIShell:Shell</string>
                     <key>FullNvramAccess</key>
