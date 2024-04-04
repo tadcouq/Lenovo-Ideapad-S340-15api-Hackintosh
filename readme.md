@@ -21,7 +21,7 @@ Please read entire guide from [Dortania OpenCore Guides](https://dortania.github
 | NVME          | WD SN520        |
 | Wireless Card | BCM94352Z       |
 
- ### BIOS Configuration
+ ### BIOS Configuration (testing new config soon, something may change in v0.3)
 AMCN25WW(v1.08)
 
 Configuration 
@@ -29,7 +29,6 @@ Configuration
 |--------------------------------|-----------|
 | USB Legacy                     | enabled   |
 | Integrated Graphics Controller | forces    |
-| Intel PTT                      | disabled  |
 
 Security
 | Settings                                    | Value     |
