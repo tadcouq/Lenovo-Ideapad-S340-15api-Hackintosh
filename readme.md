@@ -83,6 +83,8 @@ The full guide do dump this file can go though [here](https://github.com/iamthao
 | [VoodooPS2](https://github.com/acidanthera/VoodooPS2)                                                                 | 2.3.5     |
 | [NootedRed](https://github.com/ChefKissInc/NootedRed)                                                                 | 24.04.03  |
 
+# Licence
+The Ideapad-S340-15api-Hackintosh project is licensed under the `@hust_lin.all.day for education use, non-profit for life`. See `LICENSE`.
 
 # Credits
 This build wouldn't happen without these amazing people/community:
