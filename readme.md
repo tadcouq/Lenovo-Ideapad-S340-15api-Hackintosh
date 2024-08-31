@@ -81,8 +81,6 @@ This build wouldn't happen without these amazing people/community:
 
 # Issues
 - Chromium application run unstable like Brave, Discord (Gif open),...
-- Trackpad
-- iService like icloud, imess,...
 
 # Update, recommendation
 WIP
