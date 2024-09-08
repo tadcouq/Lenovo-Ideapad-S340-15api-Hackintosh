@@ -40,6 +40,8 @@ Boot
 | Fast Boot         | disabled        |
 | USB Boot          | enabled         |
 
+Update: If you can't able disable Fast Boot in UEFI mode, just leave it behind
+
 ### Advanced BIOS Menu
 
 Not recommend, but if u want to tweek more. Fully power off the laptop. Enter the BIOS by pressing F2 at boot. Power off the laptop again. Quickly enter the following code:
