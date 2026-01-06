@@ -4,6 +4,8 @@
 ![STATUS](https://img.shields.io/badge/STABLE-v0.3-blueviolet.svg)
 
 # Introduction
+So to update this, i bought a fakin Mac Pro M4 Pro, so this will stay freeze until I have time to improve it, thanks 4 visit. If you need help, just contact me though discord or email. Have a nice day
+
 After crying and searching though Internet no one have try this freeking nugget run macOS, I think its will be a fun experience to try out. This hackintosh configuration is built for Lenovo Ideapad S340-15API (Ryzen). Also this is my first hackintosh project for educational purpose because all my money goes to ~~relearn calculus~~ fund the university campus rebuild, so... yeah we have this
 
 # Disclaimer
@@ -86,3 +88,4 @@ This build wouldn't happen without these amazing people/community:
 
 # Update, recommendation
 WIP
+
